@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hallo — Hello — Hallo 👋
+# Hallo en welkom op mijn pagina!
 
 **Richard** · Nederland 🇳🇱
 
 Cybersecurity enthusiast · Building tools that make the digital world safer and more understandable.
-
-*Cybersecurity-enthousiasteling · Bouwt tools die de digitale wereld veiliger en begrijpelijker maken.*
 
 ---
 
@@ -45,22 +43,3 @@ A Firefox extension that identifies technical cybersecurity terms on web pages a
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-2C3E50?style=flat-square&logo=hackthebox&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-4A90D9?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R1chqrd&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R1chqrd&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Making cybersecurity understandable for everyone."*
-
-*„Cybersecurity verständlich machen — für alle."*
-
-</div>
