@@ -6,7 +6,7 @@ Ik ben een ontwikkelaar uit Nederland met een passie voor cybersecurity, digital
 
 - *Digital forensics en incident response*
 - *Open-source intelligence (OSINT)*
-- *Tooling bouwen die cybersecurity toegankelijk maakt*
+- *Tooling, applicaties en andere oplossingen ontwikkelen voor internet onderzoek en onderzoek op hardware*
 
 ## Uitgelicht project
 
