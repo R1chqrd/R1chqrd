@@ -1,27 +1,20 @@
-<div align="center">
+# Hey, ik ben Richard
 
-# Richard
+Ik ben een ontwikkelaar uit Nederland met een passie voor cybersecurity, digital forensics en OSINT. Ik bouw tooling en applicaties die complexe beveiligingsonderwerpen toegankelijk maken.
 
-Ontwikkelaar uit Nederland — Digital Forensics & OSINT
+## Waar ik me op richt
 
-</div>
+- *Digital forensics en incident response*
+- *Open-source intelligence (OSINT)*
+- *Tooling bouwen die cybersecurity toegankelijk maakt*
 
----
-
-#### Uitgelicht
+## Uitgelicht project
 
 > **[The Cybercrime Index — Encyclopedie](https://github.com/R1chqrd/cybercrime_index_encyclopedie)**
-> Firefox-extensie die cybersecuritytermen op webpagina's herkent en eenvoudige Nederlandstalige uitleg toont.
+> Een Firefox-extensie die cybersecuritytermen op webpagina's herkent en eenvoudige Nederlandstalige uitleg toont.
 
----
+## Tech waar ik mee werk
 
-#### Stack
-
-`C` · `C#` · `Python` · `TypeScript` · `JavaScript` · `SQL` · `Bash`
-`.NET 8` · `Next.js` · `React` · `Tailwind CSS` · `Docker`
-
----
-
-#### Focus
-
-Digital Forensics · OSINT · Cybersecurity
+**Talen:** *C, C#, Python, TypeScript, JavaScript, SQL, Bash*
+**Frameworks:** *Next.js, React, .NET 8, Tailwind CSS*
+**Tools:** *Docker, Firefox Extensions, Tampermonkey*
